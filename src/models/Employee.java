@@ -7,6 +7,6 @@ public class Employee {
     String name;
     String city;
     String address;
-    double Salary;
+    double salary;
     LocalDate birth;
 }

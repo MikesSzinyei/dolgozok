@@ -1,3 +1,3 @@
 # MVC
 
-Fájlkezelés MVC-ben. Dolgozók beolvasása, fizetés összegzése
+Fájlkezelés MVC-ben. Dolgozók beolvasása, fizetés összegzése.
