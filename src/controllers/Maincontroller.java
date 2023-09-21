@@ -13,7 +13,8 @@ public class Maincontroller {
         // new Mainconsole().welcome();
         ArrayList<Employee> emplist = new Filehandler().readFile();
 
-        new Salary().sumSalary(emplist);
+        double sum = new Salary().sumSalary(emplist);
+        new Mainconsole().showSalarySum(sum);
 
     }
 }
